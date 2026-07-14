@@ -36,9 +36,9 @@ export const site = {
   ],
   teaching: [
     {
-      title: "Carnatic Music",
-      body: "Structured instruction in foundational technique, swara discipline, rhythm, repertoire, musical expression and steady practice habits.",
-      audience: "Children, teens and adult beginners"
+      title: "Carnatic Vocal and Violin Music",
+      body: "Structured Carnatic vocal and Violin instruction covering shruti alignment, swara exercises, tala discipline, geethams, swarajathis, varnams, kritis, lyrical understanding and sustainable daily practice.",
+      audience: "hildren, teenagers, adult beginners and returning students"
     },
     {
       title: "High-School Mathematics",
