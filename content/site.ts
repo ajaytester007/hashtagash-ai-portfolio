@@ -36,8 +36,8 @@ export const site = {
   ],
   teaching: [
     {
-      title: "Carnatic Vocal and Violin Music",
-      body: "Structured Carnatic vocal and Violin instruction covering shruti alignment, swara exercises, tala discipline, geethams, swarajathis, varnams, kritis, lyrical understanding and sustainable daily practice.",
+      title: "Carnatic Vocal & Violin Music",
+      body: "Structured Carnatic vocal and Violin instruction covering shruti alignment, swara exercises, tala discipline, geethams, swarajathis, varnams, 	kritis, lyrical understanding and sustainable daily practice.",
       audience: "Children, teenagers, adult beginners and returning students"
     },
     {
